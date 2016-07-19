@@ -1,0 +1,85 @@
+.h3 {
+    font-size: 1.17em;
+    margin: 1em 0;
+}
+
+#progress {
+    font-size: 1.17em;
+    margin: 1em 0;
+}
+
+.h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+    text-align: center;
+}
+
+body {
+    background: url(https://i.ytimg.com/vi/LcTQoRlcs-A/maxresdefault.jpg) no-repeat;
+    background-size: cover;
+}
+
+
+}
+.header {
+    height: 200px;
+    width: 600px;
+    margin: auto auto auto auto;
+    text-align: center;
+}
+.header h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 64px;
+    color: #C0C0C0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 1.33em;
+}
+.box {
+    width: 33%;
+    height: 33%;
+    margin: auto auto auto auto;
+    background-color: rgba(85, 85, 85, 0.33);
+    padding-top: 12px;
+    padding-left: 25px;
+    font-family: "Times New Roman", Times, serif;
+    color: #eee;
+}
+.answer {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.submit {
+    margin-left: -25px;
+    text-align: center;
+}
+.button {
+    width: 200px;
+    margin: 30px auto;
+    border-radius: 0.5em;
+    color: #000;
+    font-size: 12px;
+}
+.footer {
+    height: 15%;
+    background-color: transparent;
+    padding: auto auto auto auto;
+    font-family: Lato, sans-serif;
+    color: black;
+    font-size: 20px;
+}
+.status {
+    display: flex;
+}
+.right,
+.count,
+.reset {
+    width: 33%;
+    text-align: center;
+}
+.right {}
+.reset button {
+    width: 100%;
+    max-width: 200px;
+    margin: 1.1em 0;
+}
